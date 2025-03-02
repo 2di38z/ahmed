@@ -1,0 +1,41 @@
+.main{
+    width: 40%;
+    /* background-color: blue */
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 45px;
+    padding: 10px;
+}
+input{
+    margin-bottom: 10px;
+    width: 60%;
+    padding: 5px;
+    font-size: 18px;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-weight: bold;
+}
+button{
+    border: none;
+    padding: 10px;
+    width: 40%;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: aqua;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+label{
+    padding: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 18px;
+    background-color: #1F87CF;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: tomato;
+    font-weight: bold;
+}
+file{
+    background-color: blue;
+}
